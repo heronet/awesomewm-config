@@ -1,0 +1,8 @@
+awesome
+picom
+network-manager-applet
+volumeicon
+kitty
+
+-- Themes
+cp -r /usr/share/awesome/themes ~/.config/awesome/
